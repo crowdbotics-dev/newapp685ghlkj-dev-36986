@@ -12,6 +12,7 @@ const styles = StyleSheet.create({
   button: { borderRadius: 4, padding: 15, marginTop: 10 },
   buttonText: { color: "white", textAlign: "center", fontSize: 16 }
 })
+
 export const globalOptions = {
   name: "newapp685ghlkj_dev_36986",
   url: "https://newapp685ghlkj_dev_36986.botics.co",
@@ -20,7 +21,7 @@ export const globalOptions = {
 
 export const modulesOptions = {
   "@modules/app-menu": {
-    title: "NewTitle",
+    title: "NoTitle",
     copy: "Routes available!",
     styles: styles
   }
